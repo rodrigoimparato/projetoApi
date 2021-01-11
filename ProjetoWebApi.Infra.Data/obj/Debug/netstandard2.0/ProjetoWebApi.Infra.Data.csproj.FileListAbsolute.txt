@@ -1,0 +1,9 @@
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.Data\bin\Debug\netstandard2.0\ProjetoWebApi.Infra.Data.deps.json
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.Data\bin\Debug\netstandard2.0\ProjetoWebApi.Infra.Data.dll
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.Data\bin\Debug\netstandard2.0\ProjetoWebApi.Infra.Data.pdb
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.Data\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.Data.csprojAssemblyReference.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.Data\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.Data\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.Data.AssemblyInfoInputs.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.Data\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.Data.AssemblyInfo.cs
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.Data\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.Data.dll
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.Data\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.Data.pdb

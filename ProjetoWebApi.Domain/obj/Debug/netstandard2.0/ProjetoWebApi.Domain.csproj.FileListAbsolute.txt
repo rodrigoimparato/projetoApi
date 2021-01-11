@@ -1,0 +1,9 @@
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Domain\bin\Debug\netstandard2.0\ProjetoWebApi.Domain.deps.json
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Domain\bin\Debug\netstandard2.0\ProjetoWebApi.Domain.dll
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Domain\bin\Debug\netstandard2.0\ProjetoWebApi.Domain.pdb
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Domain\obj\Debug\netstandard2.0\ProjetoWebApi.Domain.csprojAssemblyReference.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Domain\obj\Debug\netstandard2.0\ProjetoWebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Domain\obj\Debug\netstandard2.0\ProjetoWebApi.Domain.AssemblyInfoInputs.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Domain\obj\Debug\netstandard2.0\ProjetoWebApi.Domain.AssemblyInfo.cs
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Domain\obj\Debug\netstandard2.0\ProjetoWebApi.Domain.dll
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Domain\obj\Debug\netstandard2.0\ProjetoWebApi.Domain.pdb

@@ -1,0 +1,14 @@
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\bin\Debug\netstandard2.0\ProjetoWebAPI.Service.Business.deps.json
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\bin\Debug\netstandard2.0\ProjetoWebAPI.Service.Business.dll
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\bin\Debug\netstandard2.0\ProjetoWebAPI.Service.Business.pdb
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\bin\Debug\netstandard2.0\ProjetoWebApi.Domain.dll
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\bin\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.dll
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\bin\Debug\netstandard2.0\ProjetoWebApi.Domain.pdb
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\bin\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.pdb
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\obj\Debug\netstandard2.0\ProjetoWebAPI.Service.Business.csprojAssemblyReference.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\obj\Debug\netstandard2.0\ProjetoWebAPI.Service.Business.csproj.CoreCompileInputs.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\obj\Debug\netstandard2.0\ProjetoWebAPI.Service.Business.AssemblyInfoInputs.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\obj\Debug\netstandard2.0\ProjetoWebAPI.Service.Business.AssemblyInfo.cs
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\obj\Debug\netstandard2.0\ProjetoWebAPI.Service.Business.csproj.CopyComplete
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\obj\Debug\netstandard2.0\ProjetoWebAPI.Service.Business.dll
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebAPI.Service.Business\obj\Debug\netstandard2.0\ProjetoWebAPI.Service.Business.pdb

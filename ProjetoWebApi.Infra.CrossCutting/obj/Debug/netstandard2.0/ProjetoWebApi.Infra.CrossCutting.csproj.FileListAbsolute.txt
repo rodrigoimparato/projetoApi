@@ -1,0 +1,12 @@
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\bin\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.deps.json
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\bin\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.dll
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\bin\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.pdb
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\bin\Debug\netstandard2.0\ProjetoWebApi.Domain.dll
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\bin\Debug\netstandard2.0\ProjetoWebApi.Domain.pdb
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.csprojAssemblyReference.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.AssemblyInfo.cs
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.csproj.CopyComplete
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.dll
+C:\Estudos\Arquitetura de Sotware\ProjetoApi\ProjetoWebApi\ProjetoWebApi.Infra.CrossCutting\obj\Debug\netstandard2.0\ProjetoWebApi.Infra.CrossCutting.pdb
